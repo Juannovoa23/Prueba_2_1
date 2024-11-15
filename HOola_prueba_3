@@ -1,9 +1,4 @@
-/********************************************
-Fecha: 10 de octubre del 2024
-Autor: Daniel Gonzalez
-Materia: Sistemas Operativos
-objetivo: Aplicar los conceptos vistos en clase
-*********************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
